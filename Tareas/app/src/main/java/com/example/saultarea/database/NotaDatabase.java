@@ -5,9 +5,8 @@ import androidx.room.RoomDatabase;
 import com.example.saultarea.Nota;
 
 /**
- * Esta clase devuelve una instancia de la interfaz NotaDao.
  *
- * @author Jesus Alejandro Hernandez Salas
+ * @author Carlos Saul Rodriguez Zavala
  * @version 2020
  */
 @Database(entities = {Nota.class}, version = 1)
