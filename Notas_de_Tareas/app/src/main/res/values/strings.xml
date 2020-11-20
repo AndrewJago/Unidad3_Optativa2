@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notas de Tareas</string>
+    <string name="borrar">Borrar</string>
+    <string name="guardar">Guardar</string>
+    <string name="introduce_tu_nota">Introduce tu tarea</string>
+    <string name="nota_borrada">Tarea borrada</string>
+    <string name="nota_no_existe">Tarea no existe</string>
+    <string name="nota_creada">Tarea creada</string>
+    <string name="nota_actualizada">Tarea actualizada</string>
+    <string name="crea_nota_primero">Crea tu tarea</string>
+</resources>
